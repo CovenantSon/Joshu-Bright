@@ -1,0 +1,77 @@
+body{
+	 background-color: lightblue;	
+}
+footer{
+	background-color:black; color:white;
+	display: inline-block;
+	font-size: 20px;
+}
+h1{
+	color: blue;
+	font-family: hypertop;
+	border: solid;
+	display: inline;
+	margin: 200px;
+	padding: 10px 10px;
+	background-color: tomato;
+
+}
+#first{
+	color:red; 
+	text-align:center;
+	font-family:hanging letters; 
+	margin: 300px;
+	background-color: white;
+}
+h3{
+	color: red;
+	font-family: cooper black;
+	font-size: 30px;
+}
+p{
+	font-family: comic sans ms;
+	font-size: 30px;
+	color: green; 
+}
+li{
+	font-family: forte ;
+	font-size: 30px;
+	color: darkgreen;
+}
+#second{
+	font-size: 20px;
+	color: white;
+	background-color: black;
+}
+nav{
+	text-align: center;
+	
+	margin: 70px;
+
+	background-color: tomato;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+nav ul li a{
+	
+	text-decoration: none;
+	color: black;
+	font-weight: 800;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+nav ul li{
+	display: inline-block;
+	margin: 20px;
+}
+
+nav ul{
+	list-style: none;
+}
+.banner{
+	background-color: red;
+}
+ul{
+	color: blue;
+}
